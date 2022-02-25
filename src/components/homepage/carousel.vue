@@ -1,12 +1,15 @@
 <template>
   <div>
-    <h1>Hello World</h1>
+    <picture>
+      <source srcset="../../assets/images/banners/banner-1-mobile.jpeg" media="(max-width: 767px)" />
+      <img src="../../assets/images/banners/banner-1.jpeg" alt="Main banner" class="w-100" />
+    </picture>
   </div>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "Carousel",
   props: {},
 };
 </script>
