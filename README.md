@@ -3,6 +3,9 @@
 ## Author: Zac Rimmer
 ## Regatta Group
 
+Please fork this repo and create a pull request once all tasks have been completed.
+Project setup can be found below
+
 ## Project setup
 ```
 npm install
