@@ -1,5 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec rhoncus purus, in lobortis dolor. Cras ultricies nisl sed nunc placerat, ac laoreet orci suscipit. Phasellus consequat tristique purus id blandit. Donec a sagittis lacus. Curabitur ac porta tortor. Vestibulum auctor non urna in egestas. Vivamus sit amet arcu sit amet nulla suscipit consectetur. Donec id ultricies ipsum, vel vehicula ligula. In ultrices justo quis mi gravida, ac viverra felis posuere. Integer sed sem eget metus viverra venenatis. Suspendisse sagittis ex nisi. Nunc vitae ante arcu. Nullam vulputate leo leo. Nam dapibus nisi sed enim feugiat, nec efficitur magna auctor.</p>
+
+    <p>Phasellus dignissim tellus eu urna eleifend semper. Vivamus sagittis, urna a sodales malesuada, lacus diam suscipit quam, quis condimentum mauris diam vel quam. Morbi a ante at mi faucibus imperdiet. Ut lacinia bibendum ex sit amet tempus. Donec non sodales ipsum, volutpat hendrerit turpis. Etiam eu velit nisi. Donec pretium dui nec ipsum cursus vehicula. Cras nec finibus dolor, et faucibus velit.</p>
+
+    <p>Nullam tempor vulputate commodo. Suspendisse eget fringilla eros, ac posuere eros. Sed eu justo nunc. Mauris sollicitudin dui quis tempus rutrum. Vivamus ipsum dui, malesuada at nunc id, elementum suscipit libero. Maecenas laoreet orci ut varius bibendum. Aenean et quam massa. Proin nec ligula ac neque feugiat blandit sollicitudin sit amet enim. Vivamus vulputate arcu laoreet mauris maximus varius. Ut imperdiet ipsum ac sem finibus, a bibendum justo suscipit. Duis pharetra consequat lacus ut ultrices. Aliquam suscipit velit enim, eget finibus massa lacinia sit amet. Vestibulum tempor fringilla felis, ut facilisis eros molestie sed. Aenean ligula sem, efficitur ut elementum non, ultricies eu nisi. Integer volutpat sem vitae nibh scelerisque, eu tristique magna blandit. Praesent hendrerit lorem eros.</p>
   </div>
 </template>

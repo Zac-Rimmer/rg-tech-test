@@ -1,4 +1,7 @@
-# rg-tech-test
+# Regatta Group Mid Tech Test
+
+## Author: Zac Rimmer
+## Regatta Group
 
 ## Project setup
 ```
