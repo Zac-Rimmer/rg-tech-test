@@ -1,6 +1,6 @@
 <template>
   <section id="usp" class="text-center py-3">
-    Extra 10% Off Jackets Code: <strong>10Jackets</strong> Ends in: <span id="countdownTimer"></span>
+    Extra 10% Off Jackets Code: <strong>10Jackets</strong> Ends in: <span id="countdownTimer">
   </section>
 </template>
 
