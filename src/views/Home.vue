@@ -24,19 +24,37 @@
           <div class="position-absolute start-0 end-0 bottom-0 text-center mb-4">
             <button type="button" class="btn btn-primary">Men's</button>
           </div>
+		  </a>
+		 </div>
       </div>
     </section>
+	  
+	<Blog />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
 import Carousel from "@/components/homepage/carousel.vue";
+import Blog from "@/components/homepage/blog.vue";
 
 export default {
   name: "Home",
   components: {
     Carousel,
+	Blog,
   },
 };
 </script>
+
+<style scoped lang="scss">
+	.btn.btn-primary {
+		border: 0;
+		background-color: #000000;
+		color: #ffffff;
+		&:hover {
+			background-color: #ffffff;
+			color: #000000;
+		}
+	}
+</style>
