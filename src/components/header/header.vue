@@ -1,28 +1,24 @@
 <template>
   <header class="d-flex justify-content-between">
     <img src="../../assets/images/Regatta-Group-Logo.png" alt="Regatta Group" id="logo" />
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link> |
-      <router-link to="/regatta-group">Regatta Group</router-link>
-    </div>
+    <Navigation />
+  </header>
 </template>
 
 <script>
+
+import Navigation from "@/components/navigation/navigation.vue";
 export default {
   name: "Header",
   props: {},
+  components:{
+    Navigation,
+  }
 };
 </script>
 
 <style scoped lang="scss">
 #logo {
   max-width: 200px;
-}
-
-#nav {
-    a {
-        padding: 0 10px;
-    }
 }
 </style>

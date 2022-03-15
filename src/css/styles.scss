@@ -5,3 +5,11 @@ html,
 body {
     font-family: 'Fira Sans', sans-serif;
 }
+.btn-primary{
+    background-color: #000;
+    border-color:#000;
+}
+.btn-primary:hover{
+    background-color: #fff;
+    color:#000;
+}

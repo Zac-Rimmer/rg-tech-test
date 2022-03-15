@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Header />
+    <USP />
     <router-view />
     <Footer />
   </div>
@@ -9,6 +10,7 @@
 <script>
 import Header from "./components/header/header";
 import Footer from "./components/footer/footer";
+import USP from "./components/header/usp";
 
 export default {
   name: "HelloWorld",
@@ -16,6 +18,7 @@ export default {
   components: {
     Header,
     Footer,
+    USP,
   },
 };
 </script>
